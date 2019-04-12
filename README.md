@@ -1,7 +1,7 @@
 # generator-webpack-plugin
 > Yeoman genertor for webpack plugin.
 
-## Installation
+## installation
 ```bash
 npm install -g yo
 npm install -g afeiship/generator-webpack-plugin
@@ -13,7 +13,7 @@ Then generate your new project:
 yo webpack-plugin
 ```
 
-## Code preview:
+## preview
 ```conf
 .
 ├── .babelrc
@@ -28,3 +28,6 @@ yo webpack-plugin
 │   └── process.js
 └── package.json
 ```
+
+## resources
+- https://www.npmjs.com/package/html-webpack-plugin
